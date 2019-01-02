@@ -1,20 +1,20 @@
-Navbar Menu Template
+#Navbar Menu Template
 Quick Easy navbar template using bootstrap
 
-Getting Started
+#Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-Prerequisites
+#Prerequisites
 Bootstrap 3.0+
 
-Built With
+#Built With
 Bootstrap
 
-Versioning
+#Versioning
 3.3.7
 
-Authors
+#Authors
 Rock
 
-License
+#License
 This project is licensed under the MIT License - see the LICENSE.md file for details
